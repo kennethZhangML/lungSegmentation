@@ -1,5 +1,5 @@
 # Lung Segmentation and COVID-19 Infection Prediction
-Lung Segmentation Program for HackTable2020
+Kenneth's Lung Segmentation and COVID-19 Infection Prediction Program for HackTable2020
 
 ## Inspiration
 Since the beginning of the COVID-19 pandemic, we have utilized traditional methods of COVID-19 diagnosis and detection. While utilizing trained professionals and experts in medicine to assess a patient is relatively effective, it is not efficient. By training a UNet, a neural network designed for biomedical imaging and segmentation, we can perhaps generate more precise, effective, and efficient methods of detection of COVID-19. 
