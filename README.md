@@ -1,4 +1,4 @@
-# lungSegmentation
+# Lung Segmentation and COVID-19 Infection Prediction
 Lung Segmentation Program for HackTable2020
 
 ## Inspiration
